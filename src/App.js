@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import SearchBar from "./components/SearchBar";
+import RecipeCard from "./components/RecipeCard";
 
 function App() {
   return (
-    <div className="cpntainer">
-      <h1>vvvvvvvvvvvvvvvvvvvv</h1>
+    <div className="container">
+      
     </div>
   );
 }
